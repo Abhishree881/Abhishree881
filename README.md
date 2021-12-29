@@ -1,4 +1,4 @@
-<img src="icon.png" style="border-radius:20px">
+[![Header](icon.png)](https://www.linkedin.com/in/abhi-shree-451394201)
 ---
 ### Hi there 👋
 #### This is Abhishree, a full stack web developer and a practicing programmer.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ---
 - 📫 How to reach me:
    - Instagram : [abhishree_21](https://www.instagram.com/abhishree_21/)
-   - LinkedIn : [Abhi Shree](https://www.linkedin.com/in/abhi-shree-451394201)
+   - LinkedIn : [Abhi Shree](https://www.linkedicom/in/abhi-shree-451394201)
    - G-mail : abhishree881@gmail.com
 ---
 - ⚡ Fun fact: I am still 18 :)
