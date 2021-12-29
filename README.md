@@ -1,4 +1,4 @@
-[<img src="icon.png" style="border-radius:20px")](https://www.linkedin.com/in/abhi-shree-451394201)
+<img src="icon.png" style="border-radius:20px">
 ---
 ### Hi there 👋
 #### This is Abhishree, a full stack web developer and a practicing programmer.
