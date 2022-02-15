@@ -20,5 +20,5 @@ Here are some ideas to get you started:
    - LinkedIn : [Abhi Shree](https://www.linkedicom/in/abhi-shree-451394201)
    - G-mail : abhishree881@gmail.com
 ---
-- ⚡ Fun fact: I am still 18 :)
+- ⚡ Fun fact: I am still 18 : )
 
