@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 - 📫 How to reach me:
    - Instagram : [_.a.b.h.i.__.21._](https://www.instagram.com/_.a.b.h.i.__.21._/)
-   - LinkedIn : [Abhi Shree](https://www.linkedin.com/in/abhishree-451394201/)
+   - LinkedIn : [Abhishree -](https://www.linkedin.com/in/abhishree-451394201/)
    - G-mail : abhishree881@gmail.com
 ---
 - ⚡ Fun fact: I have different kind of fascination with web designing.
