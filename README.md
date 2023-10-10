@@ -1,4 +1,4 @@
-[![Header](Black Minimal Motivation Quote LinkedIn Banner.png)](https://www.linkedin.com/in/abhi-shree-451394201)
+[![Header](Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png.png)](https://www.linkedin.com/in/abhi-shree-451394201)
 
 ---
 <h1 align="center">Hi 👋, I'm Abhishree</h1>
