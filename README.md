@@ -2,7 +2,17 @@
 
 ---
 <h1 align="center">Hi 👋, I'm Abhishree</h1>
-<h3 align="left">One of my greatest passions in the world of technology is web development. I'm constantly amazed by the creativity and innovation in web design, and whenever I come across a striking website, I can't resist the urge to try and replicate it. It's like having a superpower – it enables me to turn even the most ordinary websites into something extraordinary, complete with eye-catching graphics and animations, all while ensuring a robust backend. I've been on this web development journey for over two years now, and it's been a tremendous learning experience. Along the way, I've had the opportunity to participate in hackathons, work with college website teams, and complete two enriching web development internships. These experiences have not only expanded my skill set but also prepared me for effective collaboration and contribution in this field. Beyond web development, I'm also proficient in programming languages like C/C++, Python, and JavaScript. My interests extend to machine learning, system automation, and artificial intelligence – areas that I find incredibly exciting</h3>
+<p align="left">I'm currently a B.Tech student majoring in Computer Science at IIIT Kalyani, and I'm excited to share a bit about my journey. I also have the privilege of serving as the Vice President of the Student Council at our institute.
+
+One of my greatest passions in the world of technology is web development. I'm constantly amazed by the creativity and innovation in web design, and whenever I come across a striking website, I can't resist the urge to try and replicate it. There's something incredibly satisfying about crafting both the frontend and backend of a website, especially when it looks fantastic and offers a seamless user experience with dynamic features powered by API calls and backend models.
+
+JavaScript, in particular, has been a game-changer for me. It's like having a superpower – it enables me to turn even the most ordinary websites into something extraordinary, complete with eye-catching graphics and animations, all while ensuring a robust backend.
+
+I've been on this web development journey for over two years now, and it's been a tremendous learning experience. Along the way, I've had the opportunity to participate in hackathons, work with college website teams, and complete two enriching web development internships. These experiences have not only expanded my skill set but also prepared me for effective collaboration and contribution in this field.
+
+Beyond web development, I'm also proficient in programming languages like C/C++, Python, and JavaScript. My interests extend to machine learning, system automation, and artificial intelligence – areas that I find incredibly exciting.
+
+As I continue to learn and grow, my goal is simple: to not just be better but to strive to be the best I can be in the dynamic and ever-evolving world of computer science.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishree881&label=Profile%20views&color=0e75b6&style=flat" alt="abhishree881" /> </p>
 
