@@ -1,7 +1,9 @@
 [![Header](Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)](https://www.linkedin.com/in/abhi-shree-451394201)
 
 ---
-<h1 align="center">Hi 👋, I'm Abhishree</h1>
+# Hi, I'm Abhishree! 👋
+
+## 🚀 About Me
 <p align="left">I'm currently a B.Tech student majoring in Computer Science at IIIT Kalyani, and I'm excited to share a bit about my journey. I also have the privilege of serving as the Vice President of the Student Council at our institute.
 
 One of my greatest passions in the world of technology is web development. I'm constantly amazed by the creativity and innovation in web design, and whenever I come across a striking website, I can't resist the urge to try and replicate it. There's something incredibly satisfying about crafting both the frontend and backend of a website, especially when it looks fantastic and offers a seamless user experience with dynamic features powered by API calls and backend models.
