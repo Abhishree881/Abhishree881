@@ -20,12 +20,6 @@ Beyond web development, I'm also proficient in programming languages like C/C++,
 
 As I continue to learn and grow, my goal is simple: to not just be better but to strive to be the best I can be in the dynamic and ever-evolving world of computer science.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishree881&label=Profile%20views&color=0e75b6&style=flat" alt="abhishree881" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishree881" alt="abhishree881" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/abhishree881" target="blank"><img src="https://img.shields.io/twitter/follow/abhishree881?logo=twitter&style=for-the-badge" alt="abhishree881" /></a> </p>
-
 - 🔭 I’m currently working on **projects based on web**
 
 - 🌱 I’m currently exploring **Machine Learning**
