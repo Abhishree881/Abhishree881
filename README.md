@@ -3,7 +3,9 @@
 [![Header](Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)](https://www.linkedin.com/in/abhi-shree-451394201)
 
 ---
-# Hi, I'm Abhishree! 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishree!;" />
+</h1>
 
 ## 🚀 About Me
 <p align="left">I'm currently a B.Tech student majoring in Computer Science at IIIT Kalyani, and I'm excited to share a bit about my journey. I also have the privilege of serving as the Vice President of the Student Council at our institute.
